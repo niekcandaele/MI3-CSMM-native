@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">7DTD server manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="this_is_the_csmm_app_it_is_just_a_sample_to_show_how_navigation_will_work">This is the CSMM app. It is just a sample to show how navigation will work</string>
+</resources>
